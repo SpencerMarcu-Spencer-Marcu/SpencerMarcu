@@ -1,7 +1,3 @@
-![Copilot code review](https://github.com/SpencerMarcu-Spencer-Marcu/SpencerMarcu/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg)
-
-![Copilot cloud agent](https://github.com/SpencerMarcu-Spencer-Marcu/SpencerMarcu/actions/workflows/copilot-swe-agent/copilot/badge.svg)
-
 # Hi, I'm Spencer Marcu 👋🎸
 
 > American singer-songwriter crafting music from the heart.
