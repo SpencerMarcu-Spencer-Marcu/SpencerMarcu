@@ -58,6 +58,6 @@ Feel free to explore my repositories and reach out for collaboration opportuniti
 
 <div align="center">
 
-*This repository serves as my GitHub profile and showcase of my work.*
+<em>This repository serves as my GitHub profile and showcase of my work.</em>
 
 </div>
