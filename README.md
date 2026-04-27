@@ -28,7 +28,7 @@
 | 🎤 **Vocals** | Lead vocals, harmonies, and vocal production |
 | 🎸 **Guitar** | Acoustic & electric — rhythm and lead |
 | 🎛️ **Production** | Songwriting, arranging, recording, and mixing |
-| ✏️ **Songwriting** | Lyricism, melody, and narrative-driven composition |
+| 🎼 **Songwriting** | Lyricism, melody, and narrative-driven composition |
 
 ---
 
@@ -36,9 +36,9 @@
 
 <div align="center">
 
-![Spencer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpencerMarcu&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub contribution statistics for SpencerMarcu](https://github-readme-stats.vercel.app/api?username=SpencerMarcu&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerMarcu&layout=compact&theme=tokyonight&hide_border=true)
+![Most used programming languages in SpencerMarcu's repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerMarcu&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
