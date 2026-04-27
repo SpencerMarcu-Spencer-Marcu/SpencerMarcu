@@ -1,11 +1,15 @@
 <div align="center">
 
-# Hi, I'm Spencer Marcu 👋🎸
+<h1>Hi, I'm Spencer Marcu 👋🎸</h1>
 
-### American singer-songwriter crafting music from the heart.
+<h3>American singer-songwriter crafting music from the heart.</h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/SpencerMarcu?label=Follow&style=social)](https://github.com/SpencerMarcu)
-[![Profile views](https://komarev.com/ghpvc/?username=SpencerMarcu&color=blueviolet&style=flat)](https://github.com/SpencerMarcu)
+<a href="https://github.com/SpencerMarcu">
+  <img src="https://img.shields.io/github/followers/SpencerMarcu?label=Follow&style=social" alt="GitHub followers" />
+</a>
+<a href="https://github.com/SpencerMarcu">
+  <img src="https://komarev.com/ghpvc/?username=SpencerMarcu&color=blueviolet&style=flat" alt="Profile views" />
+</a>
 
 </div>
 
