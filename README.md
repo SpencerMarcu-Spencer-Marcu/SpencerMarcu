@@ -48,7 +48,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-SpencerMarcu-181717?style=for-the-badge&logo=github)](https://github.com/SpencerMarcu)
+<a href="https://github.com/SpencerMarcu">
+  <img src="https://img.shields.io/badge/GitHub-SpencerMarcu-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
 
 </div>
 
