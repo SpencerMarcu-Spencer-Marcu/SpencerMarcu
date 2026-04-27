@@ -36,9 +36,9 @@
 
 <div align="center">
 
-![GitHub activity overview for SpencerMarcu](https://github-readme-stats.vercel.app/api?username=SpencerMarcu&show_icons=true&theme=tokyonight&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=SpencerMarcu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub activity overview for SpencerMarcu" />
 
-![Programming language distribution chart for SpencerMarcu's repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerMarcu&layout=compact&theme=tokyonight&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerMarcu&layout=compact&theme=tokyonight&hide_border=true" alt="Programming language distribution chart for SpencerMarcu's repositories" />
 
 </div>
 
