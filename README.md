@@ -29,7 +29,7 @@
 
 ## 📬 Connect with Me
 
-- 🐙 GitHub: [![GitHub followers](https://img.shields.io/github/followers/SpencerMarcu?label=Follow&style=social)](https://github.com/SpencerMarcu)
+- 🐙 GitHub: [@Spencer-Marcu](https://github.com/Spencer-Marcu)
 
 Feel free to explore my repositories and reach out for collaboration opportunities!
 
