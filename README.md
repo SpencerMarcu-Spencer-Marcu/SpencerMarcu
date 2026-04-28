@@ -55,7 +55,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerMarcu&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-| ✍️ Songwriting | Lyrics, melody, and composition |
 
 ---
 
