@@ -29,7 +29,7 @@
 
 ## 📬 Connect with Me
 
-- 🐙 GitHub: [@Spencer-Marcu](https://github.com/Spencer-Marcu)
+- 🐙 GitHub: [@SpencerMarcu](https://github.com/SpencerMarcu)
 
 Feel free to explore my repositories and reach out for collaboration opportunities!
 
